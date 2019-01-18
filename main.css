@@ -1,0 +1,7 @@
+.cardUsed {
+    display: inline-flex;
+    flex-wrap: wrap;
+    width: 80%;
+    align-self: center
+}
+
